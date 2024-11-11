@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "@ipld/dag-pb": "npm:@ipld/dag-pb@^4.1.3"
+  }
+}
